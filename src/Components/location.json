@@ -1,0 +1,42 @@
+[
+  {
+    "img": "/images/Location-images/2.jpg",
+    "name": "Swat",
+    "routes": "25 routes"
+  },
+  {
+    "img": "/images/Location-images/5.jpg",
+    "name": "Chitral",
+    "routes": "25 routes"
+  },
+  {
+    "img": "/images/Location-images/1.jpg",
+    "name": "Arag kel",
+    "routes": "25 routes"
+  },
+  {
+    "img": "/images/Location-images/6.jfif",
+    "name": "Hunza",
+    "routes": "25 routes"
+  },
+  {
+    "img": "/images/Location-images/8.jpg",
+    "name": "Naran",
+    "routes": "25 routes"
+  },
+  {
+    "img": "/images/Location-images/3.jpg",
+    "name": "Skardu",
+    "routes": "25 routes"
+  },
+  {
+    "img": "/images/Location-images/4.jfif",
+    "name": "Ormara Beach",
+    "routes": "25 routes"
+  },
+  {
+    "img": "/images/Location-images/7.jpg",
+    "name": "Murree",
+    "routes": "25 routes"
+  }
+]
